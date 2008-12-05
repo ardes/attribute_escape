@@ -1,0 +1,3 @@
+= attribute_escape
+
+Rails plugin that escapes content to be suitable for plaintext attributes, for example in a meta tag
